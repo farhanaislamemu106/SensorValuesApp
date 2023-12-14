@@ -10,6 +10,12 @@ Task Not Completed:
 3. Couldn't enable notification bar
 4. Bonus option
 
+Learning:
+1. Different sensor values
+2. SQLite database (create a database only)
+3. Knew about Service
+4. Layouts
+
 Challanges:
 1. Background service
 2. SQLite database
